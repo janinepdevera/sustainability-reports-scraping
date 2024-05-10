@@ -1,0 +1,14 @@
+
+# env
+.env
+.venv
+scraping/
+# scraping/bin/activate
+# scraping/bin
+# scraping/lib
+
+# files
+.DS_Store
+
+# folders
+reports/
